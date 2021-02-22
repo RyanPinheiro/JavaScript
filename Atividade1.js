@@ -29,6 +29,7 @@ var ValorRecebido = calcularSalario(80,12.50)
 console.log("Você rebera " + ValorRecebido + "R$")
 
 //atividade 4
+//Não terminado
 function Mes(meses){
    var meses = ['janeiro','fevereiro','março','abril','maio','junho','julho','agosto','setembro','outubro','novembro','desembro'];
  
